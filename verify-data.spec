@@ -6,7 +6,7 @@ Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://people.redhat.com/sct/src/verify-data/%{name}-%{version}.tar.bz2
-# Source0-md5:	bf485bf820e693c79e6bd2a38702a128
+# Source0-md5:	4883a917d0cf7463234e202412f4a84e
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
