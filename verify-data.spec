@@ -1,12 +1,12 @@
 Summary:	Destructive device IO testing program
 Summary(pl):	Wielow±tkowy, destruktywny tester I/O
 Name:		verify-data
-Version:	0.6
+Version:	0.7
 Release:	1
 License:	GPL
 Group:		Applications/System
 Source0:	http://people.redhat.com/sct/src/verify-data/%{name}-%{version}.tar.bz2
-# Source0-md5:	4883a917d0cf7463234e202412f4a84e
+# Source0-md5:	a159aeea19b056c96b63e9254df4d0d1
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
