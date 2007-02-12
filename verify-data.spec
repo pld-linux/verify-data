@@ -1,5 +1,5 @@
 Summary:	Destructive device IO testing program
-Summary(pl):	Wielow±tkowy, destruktywny tester I/O
+Summary(pl.UTF-8):   WielowÄ…tkowy, destruktywny tester I/O
 Name:		verify-data
 Version:	0.7
 Release:	1
@@ -13,10 +13,10 @@ BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 A simple, destructive device IO testing program, designed to test
 block device data integrity throughout the range of a large device.
 
-%description -l pl
-Prosty, destruktywny program do testowania urz±dzeñ I/O zaprojektowany
-do testowania integralno¶ci danych na urz±dzeniach blokowych na ca³ym
-zakresie du¿ego urz±dzenia.
+%description -l pl.UTF-8
+Prosty, destruktywny program do testowania urzÄ…dzeÅ„ I/O zaprojektowany
+do testowania integralnoÅ›ci danych na urzÄ…dzeniach blokowych na caÅ‚ym
+zakresie duÅ¼ego urzÄ…dzenia.
 
 %prep
 %setup -q
