@@ -1,5 +1,5 @@
 Summary:	Destructive device IO testing program
-Summary(pl.UTF-8):   Wielowątkowy, destruktywny tester I/O
+Summary(pl.UTF-8):	Wielowątkowy, destruktywny tester I/O
 Name:		verify-data
 Version:	0.7
 Release:	1
